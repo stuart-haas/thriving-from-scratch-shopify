@@ -1,4 +1,9 @@
-development:
+live:
   password: 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
   theme_id: "91299479684"
   store: thrivingfromscratch.myshopify.com
+development:
+  password: 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
+  theme_id: "98024652932"
+  store: thrivingfromscratch.myshopify.com
+
